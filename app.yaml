@@ -1,0 +1,7 @@
+appname: corazon
+servicename: corazon
+sdk_version: node_v20
+automator_scripts: "@ras-tech/node-scripts"
+version: FROM_TAG
+interfaces:
+    - ai_tasks
